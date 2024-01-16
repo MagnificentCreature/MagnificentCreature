@@ -1,7 +1,7 @@
 ### Hi there 👋
-📖 I'm a Year 2 Computer Science major studying at the National University of Singapore
-🔭 I’m passionate about Software Engineering and Algorithms
-📫 Reach out at sean.w@u.nus.edu or [LinkedIn](https://www.linkedin.com/in/sean-wang-36274a288/)!
+*📖 I'm a Year 2 Computer Science major studying at the National University of Singapore
+*🔭 I’m passionate about Software Engineering and Algorithms
+*📫 Reach out at sean.w@u.nus.edu or [LinkedIn](https://www.linkedin.com/in/sean-wang-36274a288/)!
 
 <!--
 **MagnificentCreature/MagnificentCreature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
