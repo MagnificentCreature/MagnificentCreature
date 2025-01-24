@@ -1,6 +1,6 @@
 ### Hi there 👋
-* 📖 I'm a Year 2 Computer Science major studying at the National University of Singapore
-* 🔭 I’m passionate about Software Engineering and Algorithms
+* 📖 I'm a Year 3 Computer Science major studying at the National University of Singapore
+* 🔭 I’m passionate about Information Retrieval and Algorithms
 * 📫 Reach out at sean.w@u.nus.edu or [LinkedIn](https://www.linkedin.com/in/sean-wang-36274a288/)!
 
 <!--
