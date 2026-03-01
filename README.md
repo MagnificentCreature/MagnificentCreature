@@ -1,5 +1,5 @@
 ### Hi there 👋
-* 📖 I'm a Year 3 Computer Science major studying at the National University of Singapore
+* 📖 I'm a Final Year Computer Science major studying at the National University of Singapore
 * 🔭 I’m passionate about Information Retrieval and Algorithms
 * 📫 Reach out at sean.w@u.nus.edu or [LinkedIn](https://www.linkedin.com/in/sean-wang-36274a288/)!
 
